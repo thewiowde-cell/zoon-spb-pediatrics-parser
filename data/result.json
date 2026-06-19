@@ -1,0 +1,78 @@
+[
+    {
+        "clinic name": "Семейная стоматология № 1 на Караваевской улице",
+        "clinic url": "https://zoon.ru/spb/medical/semejnaya_stomatologiya_1_na_karavaevskoj_ulitse/",
+        "clinic phone list": [
+            "+7 (981) 335-49-60"
+        ],
+        "clinic address": "Санкт-Петербург, Караваевская улица, 26к1, 2 этаж",
+        "clinic site": "https://firstfamilydentist.ru",
+        "social network": {
+            "vk": "https://vk.com/stomatology_1_spb"
+        },
+        "clinic rating": "5,0",
+        "clinic reviews": "9111 оценок"
+    },
+    {
+        "clinic name": "Медицинский центр МитраМед в Мурино",
+        "clinic url": "https://zoon.ru/spb/medical/meditsinskij_tsentr_mitramed_v_murino/",
+        "clinic phone list": [
+            "+7 (981) 336-11-87"
+        ],
+        "clinic address": "Ленинградская область, Мурино, проспект Авиаторов Балтики, 15, Вход со двора",
+        "clinic site": "https://med-mitramed.ru/",
+        "social network": {
+            "whatsapp": "https://wa.me/79013132101",
+            "telegram": "https://t.me/MITRAMED78",
+            "max": "https://max.ru/u/f9LHodD0cOK8uXEDmK1Bd73u61Wv7fwaBT2mKjIxA23esmEn-8dYJ97lc1w"
+        },
+        "clinic rating": "5,0",
+        "clinic reviews": "487 оценок"
+    },
+    {
+        "clinic name": "Медицинский центр Круг Докторов",
+        "clinic url": "https://zoon.ru/spb/medical/meditsinskij_tsentr_krug_doktorov/",
+        "clinic phone list": [
+            "+7 (981) 336-47-63"
+        ],
+        "clinic address": "Санкт-Петербург, пр-кт Сизова, д 21, вход напротив «Пятерочки»",
+        "clinic site": "https://krug-doktorov.ru/",
+        "social network": {
+            "whatsapp": "https://wa.me/79218890003",
+            "telegram": "https://t.me/+79218890003",
+            "max": "https://max.ru/u/f9LHodD0cOKNchpa6aOQxs9UN_DjOryAwKsloBYDjpTU3yDY-qg8kFLv2N4"
+        },
+        "clinic rating": "4,9",
+        "clinic reviews": "Отзывы"
+    },
+    {
+        "clinic name": "Клиника микрохирургии глаза ГлазЦентр на Тележной улице",
+        "clinic url": "https://zoon.ru/spb/medical/klinika_mikrohirurgii_glaza_glaztsentr_na_telezhnoj_ulitse/",
+        "clinic phone list": [
+            "+7 (800) 707-06-16"
+        ],
+        "clinic address": "Санкт-Петербург, Тележная улица, 32",
+        "clinic site": "https://glazcentre.ru/",
+        "social network": {
+            "telegram": "https://t.me/glazcentretg",
+            "vk": "https://vk.com/glazcentre"
+        },
+        "clinic rating": "5,0",
+        "clinic reviews": "218 оценок"
+    },
+    {
+        "clinic name": "Многопрофильная клиника Балтмед Озерки на Выборгском шоссе, 40",
+        "clinic url": "https://zoon.ru/spb/medical/mnogoprofilnaya_klinika_baltmed_ozerki_na_vyborgskom_shosse_40/",
+        "clinic phone list": [
+            "+7 (981) 336-42-05"
+        ],
+        "clinic address": "Санкт-Петербург, Выборгское шоссе, 40",
+        "clinic site": "https://baltclinic.ru/",
+        "social network": {
+            "vk": "https://vk.com/baltclinic",
+            "telegram": "https://t.me/baltmed"
+        },
+        "clinic rating": "4,9",
+        "clinic reviews": "36169 оценок"
+    }
+]
