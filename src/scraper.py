@@ -61,8 +61,7 @@ def get_all_urls(base_url, page_count):
     with launch(headless=False) as browser:
         page = browser.new_page()
 
-        # for page_num in range(1, + page_count + 1):
-        for page_num in range(1, 3):
+        for page_num in range(1, + page_count + 1):
             if page_num == 1:
                 page_url = base_url
             else:
@@ -95,7 +94,7 @@ def collect_data(urls_list, folder_path):
             "**/*.{png,jpg,jpeg,gif,webp,svg,woff,woff2,mp4}", lambda route: route.abort())
 
         result_list = []
-        for url in urls_list[:5]:
+        for url in urls_list:
             try:
                 print(f"Processing: {url}")
                 page.goto(url, timeout=20000)
